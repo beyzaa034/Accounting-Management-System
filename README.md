@@ -1,7 +1,3 @@
-Harika! GitHub global bir platform olduğu için README dosyasının İngilizce olması, projeni inceleyen mühendisler üzerinde çok daha profesyonel bir intiba bırakacaktır.
-
-İşte hazırladığın içeriğin tam İngilizce çevirisi:
-
 📊 Accounting Management System (Java Swing & MySQL)
 
 This project is a comprehensive accounting management system developed to digitalize business financial processes, ensure secure data management, and present data through visual analytics.
